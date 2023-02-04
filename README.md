@@ -22,7 +22,7 @@ The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout t
        manifest="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg">
 # Basic usage
 
-## Image
+## The Family Members
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
