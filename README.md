@@ -24,14 +24,12 @@ The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout t
 
 ## The Family Members
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+Gerardo Torres-Diaz was born in San Juan, Puerto Rico in 1891. His wife Maria Luisa, daughter to Spaniard from the region of Santander and a Domican mother from Santo Domingo, was born three years later in 1894. It is unclear how and when the pair met, but they had a civil wedding ceremony on June 29th 1918. Two years later they would welcome their first child Gerardo a.k.a Gerry on May 6th 1920, followed by their second son Victor Manuel in 1921, and lastly Fabio was born in 1928. It is assumed that the family was of middle class due to Gerardo's job as a postal worker and the family's ability to speak English as reported in the 1930 census. Another hint as to their social standing is Maria Luisa's political activity in the 1930's. She donated the _Union de Puerto Rico_ in 1931. In the same year she recieved a letter where she is addressed as _“presidente sub junta de damas ‘Seccion Sur’”_ of the Liberal Party of Puerto Rico. Their reasos for leaving the island are unclear but by 1941 all members of the family were living in the US.
 <param ve-image 
-       label="Gerardo in NY" 
-       description="Gerardo, María Luisa, and Cookie in New York." 
+       label="Gerardo Sr., María Luisa, Gerry, and others pose for a picture on a rooftop." 
+       description="Gerardo Sr., María Luisa, Gerry, and others pose for a picture on a rooftop." 
        license="public domain" 
-       url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg">
+       url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerado-family.jpeg">
 
 ## Map
 
