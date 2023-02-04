@@ -4,7 +4,7 @@ Visual Essays Test<a href="https://juncture-digital.org"><img src="https://junct
 <param ve-config 
        title="The Torres-Ortiz Family"
        author="Natalie Saldarriaga"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Torres-Ortiz-Family-1-scaled.jpeg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
