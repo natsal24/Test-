@@ -18,7 +18,8 @@ Visual Essays Test<a href="https://juncture-digital.org"><img src="https://junct
 # Who Were They?
 
 The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout the mid-20th century the family moved across the United States. We follow their journey not only to learn how they were able to integrate into American culture, but also what aspects of their own culture they chose to preserve. 
-
+<param ve-image 
+       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 # Basic usage
 
 ## Image
