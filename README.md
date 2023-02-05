@@ -51,11 +51,7 @@ Gerry was the first family member to move out west. According to a naturalizatio
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Fabio-Torres-Ortiz-2-scaled.jpeg">
       
-      
-## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 
 
 
