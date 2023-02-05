@@ -24,7 +24,7 @@ The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout t
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-in-NY-scaled.jpeg">
  
-# Basic usage
+
 
 ## The Family Members
 
