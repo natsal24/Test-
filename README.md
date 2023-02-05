@@ -34,6 +34,7 @@ Gerardo Torres-Diaz was born in San Juan, Puerto Rico in 1891. His wife Maria Lu
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-Torres-Sr-scaled.jpeg">
  
  ## Life in New York
+ 
 Even though the Torres-Ortiz family arrived to New York a few years before the Great Migration, they did take part in preserving Puerto Rican culture on the mainland. In May of 1945 Gerardo Sr. and Maria Louisa attended the _Miembros de la Colonia Puertorriqueña en Nueva York_ event held in Audubon Hall on West 163rd St. Puerto Rican centered clubs and associations were not foreign to Gerardo Sr. In 1950 he was one of the founding members of _The Puerto-Rican Veterans Welfare Postal Workers Association_.
 <param ve-image 
        label="The Family on a rooftop" 
@@ -42,15 +43,15 @@ Even though the Torres-Ortiz family arrived to New York a few years before the G
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerado-family.jpeg">
        
 ## Westardward We Go
-Gerry was the first family member to move out west. According to a naturalization petition his wife Maye filed in 1949 the couple lived in San Francsico. In a letter written in June of 1951 to his brother Victor, Gerry revealed that he wanted to move his parents to California. Unfortunetly, Gerardo Sr. developed lung cancer. He retired from the post office in 1954. In Febuary of 1955 Gerardo took a flight to San Francisco. His health quickly deteriorated and he was emitted into The Veterans Hospital in Oakland, California. On March 23rd Gerardo Sr. passed away. Following his death, the rest of the family moved to San Francisco.
 
-In San Francisco, Gerry was a part of the restaurant business. He was the proprietor of Scotty's Drive-in, “home of the foot long hot dog”. Victor was sport director and representative of KBRG radio station. Fabio also had some success    
-
+Gerry was the first family member to move out west. According to a naturalization petition his wife Maye filed in 1949 the couple lived in San Francsico. In a letter written in June of 1951 to his brother Victor, Gerry revealed that he wanted to move his parents to California. Unfortunetly, Gerardo Sr. developed lung cancer. He retired from the post office in 1954. In Febuary of 1955 Gerardo took a flight to San Francisco. His health quickly deteriorated and he was emitted into The Veterans Hospital in Oakland, California. On March 23rd Gerardo Sr. passed away. Following his death, the rest of the family moved to the Bay Area.    
 <param ve-image 
        label="Fabio" 
        description="Fabio" 
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Fabio-Torres-Ortiz-2-scaled.jpeg">
+      
+      In San Francisco, Gerry was a part of the restaurant business. He was the proprietor of Scotty's Drive-in, “home of the foot long hot dog”. Victor was sport director and representative of KBRG radio station. Fabio also had some success 
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
