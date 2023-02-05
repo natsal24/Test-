@@ -44,14 +44,14 @@ Even though the Torres-Ortiz family arrived to New York a few years before the G
        
 ## Westardward We Go
 
-Gerry was the first family member to move out west. According to a naturalization petition his wife Maye filed in 1949 the couple lived in San Francsico. In a letter written in June of 1951 to his brother Victor, Gerry revealed that he wanted to move his parents to California. Unfortunetly, Gerardo Sr. developed lung cancer. He retired from the post office in 1954. In Febuary of 1955 Gerardo took a flight to San Francisco. His health quickly deteriorated and he was emitted into The Veterans Hospital in Oakland, California. On March 23rd Gerardo Sr. passed away. Following his death, the rest of the family moved to the Bay Area.    
+Gerry was the first family member to move out west. According to a naturalization petition his wife Maye filed in 1949 the couple lived in San Francsico. In a letter written in June of 1951 to his brother Victor, Gerry revealed that he wanted to move his parents to California. Unfortunetly, Gerardo Sr. developed lung cancer. He retired from the post office in 1954. In Febuary of 1955 Gerardo took a flight to San Francisco. His health quickly deteriorated and he was emitted into The Veterans Hospital in Oakland, California. On March 23rd Gerardo Sr. passed away. Following his death, the rest of the family moved to the Bay Area. In San Francisco, Gerry was a part of the restaurant business. He was the proprietor of Scotty's Drive-in, “home of the foot long hot dog”. Victor was sport director and representative of KBRG radio station. Fabio also had some success aschairman of a beauty pageant called “The Latin American Fiesta of 1968”. Mary Louise is by far the most mysterious of the Torres-Ortiz clan. The only proof of her existence in the family collection are of photographs left behind. The only additional information available is of her marriage in 1962 to Gilbert Shine and later the couple's divorce in 1967. Life for Maria Luisa after her husband's death is not documented. Information on when Maria Luisa died I could not find, but there was a letter addressed to her from California Senator Milton Marks, a friend of Fabio. In it Marks says that he heard Maria Luisa was ill and hoped “that each day finds you better and that you will soon be fine again.” At the time of the letter Maria Luisa was nearing 76 years old, so it is possible to assume that she might have passed sometime around the late 70’s.    
 <param ve-image 
        label="Fabio" 
        description="Fabio" 
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Fabio-Torres-Ortiz-2-scaled.jpeg">
       
-      In San Francisco, Gerry was a part of the restaurant business. He was the proprietor of Scotty's Drive-in, “home of the foot long hot dog”. Victor was sport director and representative of KBRG radio station. Fabio also had some success 
+      
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
