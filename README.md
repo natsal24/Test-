@@ -17,8 +17,8 @@ Visual Essays Test<a href="https://juncture-digital.org"><img src="https://junct
 
 # Who Were They?
 
-The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout the mid-20th century the family moved across the United States. We follow their journey not only to learn how they were able to integrate into American culture, but also what aspects of their own culture they chose to preserve. 
-       <param ve-map center="Q41211" zoom="11" prefer-geojson>
+The Torres-Ortiz Family were originally from San Juan, Puerto Rico. Throughout the mid-20th century the family moved across the United States. We follow their journey not only to learn how they were able to integrate into American culture, but also what aspects of their own culture they chose to preserve.[^1] 
+       <param ve-map center="Q1183" zoom="11" prefer-geojson>
  
 ## The Family Members
 
@@ -28,6 +28,7 @@ Gerardo Torres-Diaz was born in San Juan, Puerto Rico in 1891. His wife Maria Lu
        description="A young Gerardo Sr." 
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-Torres-Sr-scaled.jpeg">
+       <param ve-map center="Q41211" zoom="11" prefer-geojson>
  
  ## Life in New York
  
@@ -48,6 +49,8 @@ Gerry was the first family member to move out west. According to a naturalizatio
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Fabio-Torres-Ortiz-2-scaled.jpeg">
       
 
+# References
 
+[^1]: [Wikipedia: Puerto Rico ](https://en.wikipedia.org/wiki/Puerto_Rico)
 
 
