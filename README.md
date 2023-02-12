@@ -28,7 +28,7 @@ Gerardo Torres-Diaz was born in San Juan, Puerto Rico in 1891. His wife Maria Lu
        description="A young Gerardo Sr." 
        license="public domain" 
        url="https://raicesculturalcenter.org/wp-content/uploads/2023/01/Gerardo-Torres-Sr-scaled.jpeg">
-       <param ve-map center="Q41211" zoom="11" prefer-geojson>
+       
  
  ## Life in New York
  
